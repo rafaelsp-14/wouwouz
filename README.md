@@ -1,13 +1,17 @@
 ## Hi there 👋
-- Frog 16yo from France
-- Currently working on JavaScript & C++.
+- Rafael 18yo from France
+- 🐧 Interested in Linux, infrastructure and cybersecurity
 
 ---
 
-#### Tools and Software
-[![OS - Windows](https://img.shields.io/badge/OS-WINDOWS-blue?style=for-the-badge&logo=windows)](https://www.microsoft.com/windows/)
-[![Editor - VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
-[![IDE - Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-blueviolet?style=for-the-badge&logo=visual-studio)](https://visualstudio.com/)
+#### Languages
+<img src="https://skillicons.dev/icons?i=js,html,css,python,bash" />
+OS
+<img src="https://skillicons.dev/icons?i=linux,windows" />
+Tools & Software
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github" />
+
+---
 
 #### Contact and About Me
-[![Discord - yawdev](https://img.shields.io/badge/Discord-frogontopppp-blueviolet?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1167566471493333043)
+📧 rafael.speybrouck@gmail.com
